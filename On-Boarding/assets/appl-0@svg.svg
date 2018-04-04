@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>appl-0</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="3" width="16" height="18" rx="3"></rect>
+    </defs>
+    <g id="Schools-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tab-Menu" transform="translate(-133.000000, -30.000000)">
+            <g id="Group-41" transform="translate(0.000000, 10.000000)">
+                <g id="appl-0" transform="translate(133.000000, 19.000000)">
+                    <g id="Rectangle-8">
+                        <use fill="#F4F6F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#B4B4B6" stroke-width="1" x="0.5" y="3.5" width="15" height="17" rx="3"></rect>
+                    </g>
+                    <path d="M4.5,9.5 L11.5,9.5" id="Line-2" stroke="#B4B4B6" fill="#F4F6F9" stroke-linecap="square"></path>
+                    <path d="M4.5,12.5 L11.5,12.5" id="Line-2-Copy" stroke="#B4B4B6" fill="#F4F6F9" stroke-linecap="square"></path>
+                    <path d="M4.5,15.5 L8.5,15.5" id="Line-2-Copy-3" stroke="#B4B4B6" fill="#F4F6F9" stroke-linecap="square"></path>
+                    <path d="M2.5,1.5 L13.5,1.5" id="Line-3" stroke="#B4B4B6" fill="#F4F6F9" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
