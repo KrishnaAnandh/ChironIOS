@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>notif-0</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Schools-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tab-Menu" transform="translate(-226.000000, -29.000000)" fill="#F4F6F9" stroke="#B4B4B6">
+            <g id="Group-41" transform="translate(0.000000, 10.000000)">
+                <g id="notif-0" transform="translate(226.000000, 19.000000)">
+                    <path d="M0.809016994,15.5 L16.190983,15.5 L14.5,12.118034 L14.5,6.5 C14.5,3.1862915 11.8137085,0.5 8.5,0.5 C5.1862915,0.5 2.5,3.1862915 2.5,6.5 L2.5,12.118034 L0.809016994,15.5 Z" id="Rectangle-9"></path>
+                    <path d="M5.5,15.5 L5.5,16.5 C5.5,18.1568542 6.84314575,19.5 8.5,19.5 C10.1568542,19.5 11.5,18.1568542 11.5,16.5 L11.5,15.5 L5.5,15.5 Z" id="Rectangle"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
